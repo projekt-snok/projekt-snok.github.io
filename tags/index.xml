@@ -5,10 +5,38 @@
     <link>https://projekt-snok.github.io/tags/</link>
     <description>Recent content in Tags on Projekt Snok</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv-se</language>
+    <language>sv</language>
+    <lastBuildDate>Sun, 30 Jul 2017 17:57:26 +0200</lastBuildDate>
     
 	<atom:link href="https://projekt-snok.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biltema</title>
+      <link>https://projekt-snok.github.io/tags/biltema/</link>
+      <pubDate>Sun, 30 Jul 2017 17:57:26 +0200</pubDate>
+      
+      <guid>https://projekt-snok.github.io/tags/biltema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chassi</title>
+      <link>https://projekt-snok.github.io/tags/chassi/</link>
+      <pubDate>Sun, 30 Jul 2017 17:57:26 +0200</pubDate>
+      
+      <guid>https://projekt-snok.github.io/tags/chassi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lmr24</title>
+      <link>https://projekt-snok.github.io/tags/lmr24/</link>
+      <pubDate>Sun, 30 Jul 2017 17:57:26 +0200</pubDate>
+      
+      <guid>https://projekt-snok.github.io/tags/lmr24/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
