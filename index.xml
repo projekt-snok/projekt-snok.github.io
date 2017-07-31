@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projekt Snok</title>
+    <title>Projekt S.N.O.K</title>
     <link>https://projekt-snok.github.io/</link>
-    <description>Recent content on Projekt Snok</description>
+    <description>Recent content on Projekt S.N.O.K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
+    <copyright>(c) 2017 Alla rättigheter</copyright>
     <lastBuildDate>Sun, 30 Jul 2017 17:57:26 +0200</lastBuildDate>
     
 	<atom:link href="https://projekt-snok.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +14,10 @@
     
     <item>
       <title>Startpunkt</title>
-      <link>https://projekt-snok.github.io/posts/starting-point/</link>
+      <link>https://projekt-snok.github.io/2017/07/startpunkt/</link>
       <pubDate>Sun, 30 Jul 2017 17:57:26 +0200</pubDate>
       
-      <guid>https://projekt-snok.github.io/posts/starting-point/</guid>
+      <guid>https://projekt-snok.github.io/2017/07/startpunkt/</guid>
       <description>Efter att ha letat efter delar, funderat på chassikonstruktion o.s.v. så bestämde jag mig för att leta defekta klippare på Blocket. Vad som helst fick duga bara det var tillräckligt billigt och tillräckligt nära rent geografiskt.
 Det fick bli en sån här&amp;hellip; Den är använd ett antal år och ser inte alls ut som på bilden men tyvärr så tog jag ingen bild innan jag plockade isär den.
 Det verkar vara en hyffsat bra maskin att bygga på då det finns en hel del information på nätet om den och liknande maskiner.</description>
@@ -24,10 +25,10 @@ Det verkar vara en hyffsat bra maskin att bygga på då det finns en hel del inf
     
     <item>
       <title>Projektbeskrivning</title>
-      <link>https://projekt-snok.github.io/posts/project-statement/</link>
+      <link>https://projekt-snok.github.io/2017/07/projektbeskrivning/</link>
       <pubDate>Sun, 30 Jul 2017 16:50:51 +0200</pubDate>
       
-      <guid>https://projekt-snok.github.io/posts/project-statement/</guid>
+      <guid>https://projekt-snok.github.io/2017/07/projektbeskrivning/</guid>
       <description>Detta djävla gräs
  Som vanligt så kom sommaren även detta år och med denna även klippningen av gräsmattan. Nu ska det sägas att jag inte har någon stor tomt men det är TRÅKIGT. Det diskuterades saker som köpa robotgräsklippare, barnarbete och asfalt. Även om dessa är bra lösningar på problemet så&amp;hellip;
 Då jag har en bakgrund innom elektronik, datorer och programmering så fick jag den där tanken som om du hamnat här säkert du också fått någon gång.</description>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on Projekt Snok</title>
+    <title>Topics on Projekt S.N.O.K</title>
     <link>https://projekt-snok.github.io/topics/</link>
-    <description>Recent content in Topics on Projekt Snok</description>
+    <description>Recent content in Topics on Projekt S.N.O.K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
+    <copyright>(c) 2017 Alla rättigheter</copyright>
     
 	<atom:link href="https://projekt-snok.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
